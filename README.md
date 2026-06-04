@@ -93,8 +93,8 @@ eficientes, y sobre todo que resuelvan problemas reales.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-nine-tau-77.vercel.app/api?username=JMGProgrammer&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats-nine-tau-77.vercel.app/api/top-langs/?username=JMGProgrammer&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats-nine-tau-77.vercel.app/api?username=JMGProgrammer&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats-nine-tau-77.vercel.app/api/top-langs/?username=JMGProgrammer&layout=compact&theme=radical"/>
 </p>
 
 <p align="center">
