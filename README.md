@@ -13,7 +13,7 @@
   <a href="mailto:jemgprog@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://jmgprogramer.vercel.app">
+  <a href="https://jemgprog-porfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
@@ -29,7 +29,7 @@ Soy desarrollador de software especializado en **Full Stack**. Me apasiona const
 - 👯 Busco colaborar en proyectos web innovadores
 - 💬 Pregúntame sobre **React, TypeScript, Next.js o C#**
 - 📫 Contacto: **jemgprog@gmail.com**
-- ⚡ Dato curioso: Me encanta programar y aprender cosas nuevas constantemente
+- ⚡ Dato curioso: Me encanta el código limpio y aprender cosas nuevas constantemente
 
 ---
 
@@ -74,14 +74,14 @@ Soy desarrollador de software especializado en **Full Stack**. Me apasiona const
 
 ## 📌 Proyectos Destacados
 
-### [Nombre Proyecto 1](https://github.com/JMGProgramer/proyecto1)
-> Descripción corta y clara de qué hace y qué problema resuelve.
+### [Pokedex Deluxe](https://github.com/JMGProgramer/Pokedex-Next-App)
+> Este fue mi primer projecto funcional, una representacion de la Pokedex aplicando el consumo de API REST (PokeAPI).
 
-**Stack:** `React` `Next.js` `TypeScript` `Prisma` `MySQL`
+**Stack:** `React` `Next.js` `TypeScript`
 
-- ✅ Feature clave 1
-- ✅ Feature clave 2
-- ✅ Feature clave 3
+- ✅ Consumo de API REST
+- ✅ Contenido educacional sobre como consumir APIs con React
+- ✅ Futura web de consulta Pokemón
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JMGProgramer/proyecto1/main/screenshot.png" width="80%" />
@@ -89,32 +89,15 @@ Soy desarrollador de software especializado en **Full Stack**. Me apasiona const
 
 ---
 
-### [Nombre Proyecto 2](https://github.com/JMGProgramer/proyecto2)
-> Breve descripción.
-
-**Stack:** `C#` `SQL Server` `React`
-
-- 🔥 Métrica o logro destacado
-- 🚀 Performance o escalabilidad
-
----
-
-### [Nombre Proyecto 3](https://github.com/JMGProgramer/proyecto3)
-> Descripción.
-
-**Stack:** `Next.js` `TailwindCSS` `Vercel`
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JMGProgramer&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMGProgramer&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JMGProgrammer&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMGProgrammer&layout=compact&theme=radical" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JMGProgramer&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JMGProgrammer&theme=radical" />
 </p>
 
 ---
@@ -124,13 +107,13 @@ Soy desarrollador de software especializado en **Full Stack**. Me apasiona const
 ¿Quieres colaborar o tienes un proyecto en mente?
 
 - 📧 [jemgprog@gmail.com](mailto:jemgprog@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/juanmeny)
-- 🌐 [Portfolio](https://jmgprogramer.vercel.app)
+- 💼 [LinkedIn](https://linkedin.com/in/jemgprog)
+- 🌐 [Portfolio](https://jemgprog-porfolio.vercel.app)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JMGProgramer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=JMGProgrammer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center"><i>"Code is like humor. When you have to explain it, it's bad."</i></p>
+<p align="center"><i>"Si funciona no se toca."</i></p>
