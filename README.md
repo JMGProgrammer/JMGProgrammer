@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">¡Hola! Soy Juan Meny 👋</h1>
-<h3 align="center">Software Developer | Full Stack</h3>
+<h3 align="center">Analista Programador | Desarrollador Full Stack</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/juanmeny">
@@ -22,7 +22,8 @@
 
 ## 🚀 Sobre mí
 
-Soy desarrollador de software especializado en **Full Stack**. Me apasiona construir aplicaciones escalables y eficientes que resuelvan problemas reales.
+Soy Analista Programador especializado en el desarrollo **Full Stack**. Me apasiona construir aplicaciones escalables con códigos limpios bien estructurados,
+eficientes, y sobre todo que resuelvan problemas reales.
 
 - 🔭 Actualmente trabajando en proyectos con **React, Next.js y C#**
 - 🌱 Aprendiendo nuevas tecnologías y mejorando mis habilidades cada día
@@ -33,7 +34,7 @@ Soy desarrollador de software especializado en **Full Stack**. Me apasiona const
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
 ### Lenguajes
 <p>
