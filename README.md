@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JMGProgramer/JMGProgramer/main/banner.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/JMGProgrammer/JMGProgrammer/main/banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">¡Hola! Soy Juan Meny 👋</h1>
