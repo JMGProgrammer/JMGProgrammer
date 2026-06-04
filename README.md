@@ -1,6 +1,5 @@
-<!-- Banner opcional: crea uno en Canva/Figma y súbelo a un repo o imgur -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JMGProgramer/JMGProgramer/main/assets/banner.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/JMGProgramer/JMGProgramer/main/banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">¡Hola! Soy Juan Meny 👋</h1>
