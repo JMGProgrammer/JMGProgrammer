@@ -49,7 +49,7 @@ eficientes, y sobre todo que resuelvan problemas reales.
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-000000?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-7927F5?style=flat&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 </p>
