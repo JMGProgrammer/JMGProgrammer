@@ -85,7 +85,7 @@ eficientes, y sobre todo que resuelvan problemas reales.
 - ✅ Código limpio y evolutivo
 
 <p align="center">
-  <img src="TasQ-banner.png"/>
+  <img src="TasQ-banner.png" width:600/>
 </p>
 
 ---
