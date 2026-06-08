@@ -75,17 +75,17 @@ eficientes, y sobre todo que resuelvan problemas reales.
 
 ## 📌 Proyectos Destacados
 
-### [Pokedex Deluxe](https://github.com/JMGProgramer/Pokedex-Next-App)
-> Este fue mi primer projecto funcional, una representacion de la Pokedex aplicando el consumo de API REST (PokeAPI).
+### [TasQ | Task Manager](https://github.com/JMGProgrammer/TasQ)
+> Este es mi primer projecto funcional, un gestor de tareas simple, básico, moderno, pero sobre todo útil y funcional.
 
 **Stack:** `React` `Next.js` `TypeScript`
 
-- ✅ Consumo de API REST
-- ✅ Contenido educacional sobre como consumir APIs con React
-- ✅ Futura web de consulta Pokemón
+- ✅ UX/UI Moderno
+- ✅ Utilización de Hooks
+- ✅ Código limpio y evolutivo
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JMGProgramer/proyecto1/main/screenshot.png" width="80%" />
+  <img src="TasQ-banner.png"/>
 </p>
 
 ---
