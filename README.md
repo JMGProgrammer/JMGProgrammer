@@ -85,9 +85,9 @@ eficientes, y sobre todo que resuelvan problemas reales.
 - ✅ Código limpio y evolutivo
 
 <p align="center">
-  <img src="TasQ-banner.png" alt="TasQ-banner" width="50%" />
+  <img src="TasQ-banner.png" alt="TasQ-banner" align="left" width="260" />
 </p>
-
+<br clear="left"/>
 ---
 
 ### [MiBalance | Personal Finance](https://github.com/JMGProgrammer/MiBalance)
@@ -100,9 +100,9 @@ eficientes, y sobre todo que resuelvan problemas reales.
 - ✅ Código limpio ordenado
 
 <p align="center">
-  <img src="MiBalance-banner.png" alt="MiBalance-banner" width="50%" />
+  <img src="MiBalance-banner.png" alt="MiBalance-banner" align="left" width="260" />
 </p>
-
+<br clear="left"/>
 ---
 ## 📊 GitHub Stats
 
