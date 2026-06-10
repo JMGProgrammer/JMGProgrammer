@@ -85,7 +85,7 @@ eficientes, y sobre todo que resuelvan problemas reales.
 - ✅ Código limpio y evolutivo
 
 <p align="center">
-  <img src="TasQ-banner.png" alt="TasQ-banner" align="left" width="260" />
+  <img src="TasQ-banner.png" alt="TasQ-banner" align="left" width="600" />
 </p>
 <br clear="left"/>
 ---
@@ -100,10 +100,11 @@ eficientes, y sobre todo que resuelvan problemas reales.
 - ✅ Código limpio ordenado
 
 <p align="center">
-  <img src="MiBalance-banner.png" alt="MiBalance-banner" align="left" width="260" />
+  <img src="MiBalance-banner.png" alt="MiBalance-banner" align="left" width="600" />
 </p>
 <br clear="left"/>
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
