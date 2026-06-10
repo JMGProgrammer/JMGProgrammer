@@ -90,6 +90,20 @@ eficientes, y sobre todo que resuelvan problemas reales.
 
 ---
 
+### [MiBalance | Personal Finance](https://github.com/JMGProgrammer/MiBalance)
+> MiBalance es un gestor de finanzas personal básico y minimalista que te permite registrar y visualizar tus ingresos y egresos, dándote una visión clara de en qué se va tu dinero.
+
+**Stack:** `React` `Vite` `TypeScript`
+
+- ✅ UX/UI Moderno, minimalista e intuitivo
+- ✅ Chart.js utilizado (Librería de gráficas)
+- ✅ Código limpio ordenado
+
+<p align="center">
+  <img src="MiBalance-banner.png" alt="MiBalance-banner" width="50%" />
+</p>
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
