@@ -29,7 +29,6 @@ eficientes, y sobre todo que resuelvan problemas reales.
 - 👯 Busco colaborar en proyectos web innovadores
 - 💬 Pregúntame sobre **React, TypeScript, Next.js o C#**
 - 📫 Contacto: **jemgprog@gmail.com**
-- ⚡ Dato curioso: Me encanta el código limpio y aprender cosas nuevas constantemente
 
 ---
 
