@@ -141,6 +141,7 @@ eficientes, y sobre todo que resuelvan problemas reales.
 - 📧 [jemgprog@gmail.com](mailto:jemgprog@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/jemgprog)
 - 🌐 [Portfolio](https://jemgprog-porfolio.vercel.app)
+- 📱 [Instagram](https://www.instagram.com/jemgprog)
 
 ---
 
