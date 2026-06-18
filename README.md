@@ -6,7 +6,7 @@
 <h3 align="center">Analista Programador | Desarrollador Full Stack</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/juanmeny">
+  <a href="https://www.linkedin.com/in/jempgprog/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jemgprog@gmail.com">
