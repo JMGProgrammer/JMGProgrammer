@@ -105,22 +105,6 @@ eficientes, y sobre todo que resuelvan problemas reales.
 <br clear="left"/>
 
 ---
-
-### [APITECA (DEMO) | Simple library API](https://github.com/JMGProgrammer/APITECA)
-> Mi primer API Web funcional. Sirve como ejemplo educativo para consumo de APIs, y ademas de gestión de una biblioteca personal simple, fue desarrollada con ASP.NET Core 10 y Entity Framework Core usando MySQL como motor de base de datos.
-
-**Stack:** `C#` `MySQL` `EntityFramework` `Railway`
-
-- ✅ Muy fácil de usar
-- ✅ ASP.NET 10.0
-- ✅ Código limpio y modificable
-
-<p align="center">
-  <img src="APITECA-banner.png" alt="APITECA-banner" align="left" width="500" />
-</p>
-<br clear="left"/>
-
----
 ## 📊 GitHub Stats
 
 <p align="center">
