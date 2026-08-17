@@ -31,13 +31,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      
-> 🔭 **Actualmente trabajando en:** React, Next.js y C#  
-> 🌱 **Aprendiendo:** Nuevas tecnologías y mejorando cada día  
-> 👯 **Buscando:** Colaborar en proyectos web innovadores  
-> 💬 **Pregúntame sobre:** React, TypeScript, Next.js o C#  
-> 📫 **Contacto:** jemgprog@gmail.com
-      
+
+🔭 **Actualmente trabajando en:** React, Next.js y C#  
+🌱 **Aprendiendo:** Nuevas tecnologías y mejorando cada día  
+👯 **Buscando:** Colaborar en proyectos web innovadores  
+💬 **Pregúntame sobre:** React, TypeScript, Next.js o C#  
+📫 **Contacto:** jemgprog@gmail.com
+
+    </td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats-nine-tau-77.vercel.app/api?username=JMGProgrammer&show_icons=true&theme=radical&hide_border=true" height="150" />
     </td>
