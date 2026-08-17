@@ -38,7 +38,7 @@
 > 💬 **Pregúntame sobre:** React, TypeScript, Next.js o C#  
 > 📫 **Contacto:** jemgprog@gmail.com
       
-    </td>
+    <td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats-nine-tau-77.vercel.app/api?username=JMGProgrammer&show_icons=true&theme=radical&hide_border=true" height="150" />
     </td>
